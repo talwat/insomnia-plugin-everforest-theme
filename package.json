@@ -1,0 +1,19 @@
+{
+  "name": "insomnia-plugin-everforest-theme",
+  "version": "1.0.0",
+  "description": "The everforest colorscheme for Insomnia.",
+  "author": "Talwat",
+  "main": "app.js",
+  "license": "MIT",
+  "insomnia": {              
+    "name": "everforest",                                                 
+    "displayName": "Everforest Theme",                                         
+    "description": "The everforest colorscheme for Insomnia.",  
+    "publisher": {
+      "name": "Talwat",
+      "icon": "https://talwat.github.io/blog/img/pfp-original.png"
+    },
+
+    "unlisted": false
+  }
+}
