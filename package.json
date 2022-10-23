@@ -1,5 +1,5 @@
 {
-  "name": "@talwat/insomnia-plugin-everforest-theme",
+  "name": "insomnia-plugin-everforest-theme",
   "version": "1.0.0",
   "description": "The everforest colorscheme for Insomnia.",
   "author": "Talwat",
